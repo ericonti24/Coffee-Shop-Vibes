@@ -1,0 +1,15 @@
+/* body {
+    background-image: url("https://cdn.lifestyleasia.com/wp-content/uploads/2019/10/29021039/Coffee-Feature-806x537.jpg");
+    position: absolute;
+    
+} */
+
+html { 
+    background: url("https://cdn.lifestyleasia.com/wp-content/uploads/2019/10/29021039/Coffee-Feature-806x537.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  
+
